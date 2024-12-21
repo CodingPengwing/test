@@ -1,2 +1,1 @@
-test 6 test 6
-(inter)
+test 7
